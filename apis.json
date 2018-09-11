@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Columbus Indiana 311",
+	"description": "This is a repository of columbus indiana 311 APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/columbus-indiana-311.png",
+	"created": "2018-02-24",
+	"modified": "2018-09-10",
+	"url": "http://columbus-indiana-311.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Columbus Indiana 311",
+			"x-api-slug": "columbus-indiana-311",
+			"description": "The Columbus Service Center is also known as 3-1-1; its mission is to provide access to City services and City information with the highest possible levels of customer service. The 3-1-1 initiative strives to help City agencies provide efficient service delivery by allowing them to focus on their core missions, manage workloads efficiently, provide insight into the needs of residents, and measure how well services are delivered.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/COC_311_RGB_TEXT.jpg",
+			"humanURL": "https://311.columbus.gov/",
+			"baseURL": "https://csr.columbus.in.gov//csr/open311/v2/",
+			"tags": "Columbus Indiana 311",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/columbus-indiana-311/master/_listings/columbus-indiana-311/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Columbus Indiana 311",
+	"include": [
+		{
+			"name": "Columbus Indiana 311",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/columbus-indiana-311/master/_listings/columbus-indiana-311/apis.yaml"
+		}
+	]
+}
